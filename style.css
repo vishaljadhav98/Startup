@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Montserrat;
+}
+nav{
+    background: #FCAF02;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.startup{
+    color: #000000;
+    width: 127px;
+    height: 39px;
+    top: 24px;
+    left: 58px;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 10px;
+}
+.hero{
+    display: flex;
+    background-color: #000000;
+    color: white;
+}
